@@ -1,4 +1,10 @@
 ### oi sou Enzo Barreto ✋
+🖥️ Desenvolvedor iniciante em Constante Evolução  
+🚀 Apaixonado por tecnologia  
+🌱 Aprendendo: C e Python   
+🔨 Construindo: Projetos pessoais  
+💡 Foco atual: nenhum foco no momento
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/enzo-barreto-sarmento-0772a62b1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/barret.enz?igsh=d3R2amNjem03YTli)
 
@@ -13,11 +19,6 @@ Tecnologia que ultilizo :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzobrt0-0&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-🖥️ Desenvolvedor iniciante em Constante Evolução  
-🚀 Apaixonado por tecnologia  
-🌱 Aprendendo: C e Python   
-🔨 Construindo: Projetos pessoais  
-💡 Foco atual: nenhum foco no momento
 
 
 <!--
