@@ -11,14 +11,13 @@
   
 </div></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzobrt0-0_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzobrt0-0&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-👨💻 Desenvolvedor em Constante Evolução  
-🚀 Apaixonado por tecnologia e soluções inovadoras  
+🖥️ Desenvolvedor em Constante Evolução  
+🚀 Apaixonado por tecnologia  
 🌱 Aprendendo: C e Python   
 🔨 Construindo: Projetos pessoais  
-💡 Foco atual: 
-📫 Conecte-se comigo: [LinkedIn, email ou portfolio]  
+💡 Foco atual: nenhum foco no momento
 
 
 <!--
