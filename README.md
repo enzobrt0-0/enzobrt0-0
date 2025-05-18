@@ -13,7 +13,7 @@ Tecnologia que ultilizo :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzobrt0-0&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-🖥️ Desenvolvedor em Constante Evolução  
+🖥️ Desenvolvedor iniciante em Constante Evolução  
 🚀 Apaixonado por tecnologia  
 🌱 Aprendendo: C e Python   
 🔨 Construindo: Projetos pessoais  
