@@ -1,4 +1,9 @@
-## Hi there 👋
+### oi sou Enzo Barreto ✋
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/enzo-barreto-sarmento-0772a62b1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/barret.enz?igsh=d3R2amNjem03YTli)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/barret.enz?igsh=d3R2amNjem03YTli)
+
+
 
 <!--
 **enzobrt0-0/enzobrt0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
