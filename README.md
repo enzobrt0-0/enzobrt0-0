@@ -1,9 +1,9 @@
 ### oi sou Enzo Barreto ✋
 🖥️ Desenvolvedor iniciante em Constante Evolução  
 🚀 Apaixonado por tecnologia  
-🌱 Aprendendo: C e Python   
+🌱 Aprendendo: C,java,HTML,CSS,Javascript
 🔨 Construindo: Projetos pessoais  
-💡 Foco atual: nenhum foco no momento
+💡 Foco atual: Procurando um emprego 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/enzo-barreto-sarmento-0772a62b1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/barret.enz?igsh=d3R2amNjem03YTli)
@@ -13,7 +13,10 @@
 Tecnologia que ultilizo :
 <div style = "display: inline_block"><br/>
   <img align="center" alt= "C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt= "Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt= "" src="">
+    <img align="center" alt= "" src="">
+      <img align="center" alt= "" src="">
+        <img align="center" alt= "" src="">
   
 </div></br>
 
