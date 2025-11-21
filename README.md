@@ -1,7 +1,7 @@
 ### oi sou Enzo Barreto ✋
 🖥️ Desenvolvedor iniciante em Constante Evolução  
 🚀 Apaixonado por tecnologia  
-🌱 Aprendendo: C,java,HTML,CSS,Javascript
+🌱 Aprendendo: C,java
 🔨 Construindo: Projetos pessoais  
 💡 Foco atual: Procurando um emprego 
 
