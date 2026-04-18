@@ -2,7 +2,7 @@
 🖥️ Desenvolvedor iniciante em Constante Evolução  
 🚀 Apaixonado por tecnologia  
 🌱 Aprendendo: C,java
-🔨 Construindo: Projetos pessoais  
+🔨 Construindo: Projetos pessoais  e postando trabalhos da faculdade
 💡 Foco atual: Procurando um emprego 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/enzo-barreto-sarmento-0772a62b1)
