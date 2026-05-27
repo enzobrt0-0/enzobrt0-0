@@ -10,15 +10,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzobrt0-0&show_icons=true&theme=radical)
 
-Tecnologia que ultilizo :
-<div style = "display: inline_block"><br/>
-  <img align="center" alt= "C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt= "" src="">
-    <img align="center" alt= "" src="">
-      <img align="center" alt= "" src="">
-        <img align="center" alt= "" src="">
-  
-</div></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzobrt0-0&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
